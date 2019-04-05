@@ -16,4 +16,4 @@ title: Day by day
 * * *
 <dl>
 <dt>联系作者mail:</dt>
-<dd>~~HaiJunXianSen@outlook.com~~</dd>
+<dd>HaiJunXianSen@outlook.com</dd>
