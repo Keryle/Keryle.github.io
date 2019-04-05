@@ -6,9 +6,9 @@ description: 单片机汇编语言基于编译器SDCC（sdas8051）
 
 # windows编译环境搭建
 
-##  1.程序编辑器atom 网站https://atom.io/
+##  1.程序编辑器[atom](https://atom.io/)
 
-##  2.编译器：sdcc（windows版）网站http://sdcc.sourceforge.net/
+##  2.编译器：[sdcc（windows版）](http://sdcc.sourceforge.net/)
 
     sdcc是一款专门为微型控制器编译的跨平台编译器，自带有详细的使用说明。
 
