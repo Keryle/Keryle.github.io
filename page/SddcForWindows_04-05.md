@@ -46,5 +46,3 @@ description: 单片机汇编语言基于编译器SDCC（sdas8051）
 
        packihx c：\test\my.ihx > c：\test\my.hex
   如果生成hex文件有问题,请使用cmd输入上述命令重新生成hex文件。
-
-  [back](./)
