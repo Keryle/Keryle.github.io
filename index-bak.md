@@ -114,7 +114,7 @@ end
 <dd>Green</dd>
 </dl>
 
-<video id="video1" width="420">
+<video id="video1" width="420" controls="">
     <source src="ScentOfAWoman.mp4" type="video/mp4">
     <source src="ScentOfAWoman.ogg" type="video/ogg">
     Your browser does not support HTML5 video.

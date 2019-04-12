@@ -15,7 +15,11 @@ title: Day by day
 * 4/05: [单片机汇编语言基于编译器SDCC（sdas8051）](./page/SddcForWindows_04-05.html)
 
 * * *
-
+<video id="video1" width="420" controls="">
+    <source src="ScentOfAWoman.mp4" type="video/mp4">
+    <source src="ScentOfAWoman.ogg" type="video/ogg">
+    Your browser does not support HTML5 video.
+  </video>
 
 我的[Github](https://github.com/Keryle/)
 
