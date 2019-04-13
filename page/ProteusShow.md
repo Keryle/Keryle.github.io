@@ -9,3 +9,5 @@ description: proteus仿真演示
     <source src="https://showmore.com/zh/embed/0ap1ext" type="video/ogg">
     Your browser does not support HTML5 video.
   </video>
+
+  <iframe width="560" height="315" src="https://showmore.com/zh/embed/0ap1ext"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
