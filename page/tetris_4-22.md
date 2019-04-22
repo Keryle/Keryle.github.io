@@ -22,3 +22,12 @@ description: 51单片机编写
 ![](picture/操作算法.PNG)
 
 C 中保存了需要改变的像素点信息，再与A 进行比较，判断出是变暗，还是点亮。
+左移，右移，旋转操作同理。
+
+## 满行消除
+
+方法和移动操作类似。
+
+# 源码
+
+[Github:俄罗斯方块Tetris](https://github.com/Keryle/Keil_C/tree/master/Tetris)
