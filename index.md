@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Day by day
+title: 浪里格浪
+description: 每一个不曾起舞的日子，都是对生命的浪费
 ---
 
 # 2019
