@@ -163,28 +163,22 @@ bit_word_addr = bit_band_base + bit_word_offset
     >PPP_InitStructure.memberY = valY;
 
 3. 调用函数初始化外设。
-
->PPP_Init(PPP, &PPP_InitStructure);
+  >PPP_Init(PPP, &PPP_InitStructure);
 
 4. 使能外设。
-
->PPP_Cmd(PPP, ENABLE);
+  >PPP_Cmd(PPP, ENABLE);
 
 **Note:**
 
 1. 配置外设前，调用函数启动时钟：
-
->RCC_AHBPeriphClockCmd(RCC_AHBPeriph_PPPx, ENABLE);
->RCC_APB2PeriphClockCmd(RCC_APB2Periph_PPPx, ENABLE);
->RCC_APB1PeriphClockCmd(RCC_APB1Periph_PPPx, ENABLE);
+  >RCC_AHBPeriphClockCmd(RCC_AHBPeriph_PPPx, ENABLE);
+  >RCC_APB2PeriphClockCmd(RCC_APB2Periph_PPPx, ENABLE);
+  >RCC_APB1PeriphClockCmd(RCC_APB1Periph_PPPx, ENABLE);
 
 2. 设置寄存器默认值:
-
->PPP_DeInit(PPP);
+  >PPP_DeInit(PPP);
 
 3. 在配置外设后修改设置：
-
->PPP_InitStucture.memberX = valX;
->PPP_InitStructure.memberY = valY; /* where X and Y are the
-only members that user wants to modify*/
-PPP_Init(PPP, &PPP_InitStructure);
+  >PPP_InitStucture.memberX = valX;
+  >PPP_InitStructure.memberY = valY;
+  >PPP_Init(PPP, &PPP_InitStructure);
