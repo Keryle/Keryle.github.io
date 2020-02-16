@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 谣言
-description:
+description: 所谓无风不起浪
 ---
 
 **问**：为什么是谣言？
