@@ -4,6 +4,12 @@ title: 浪里格浪
 description: 每一个不曾起舞的日子，都是对生命的浪费
 ---
 
+# 2023
+
+## 秋
+
+* 9/25：[SingBoomCraneLicense](./page/2023/sbcLic.html)
+
 # 2020
 
 ## 冬殇
